@@ -1,10 +1,10 @@
 /**
- * An example of how to write unit tests.
- * Use this as a basis to build a more complete Test.cpp file.
- * 
- * IMPORTANT: Please write more tests - the tests here are only for example and are not complete.
  *
- * AUTHORS: amiel lejzor
+ * DESCRIPTION: testing file to snowaman.cpp checking some bad test like: negative numbers, numbers with less
+ * than 8 digits, numbers with more than 8 digits, digits bigger than 4 or 0.
+ * and also good tests that checks every part of the snowman
+ *
+ * AUTHORS: Amiel Lejzor
  * 
  * Date: 2021-02
  */
